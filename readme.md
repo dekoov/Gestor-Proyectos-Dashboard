@@ -1,7 +1,7 @@
 # Dashboard Modulo - CollabPro
 Mi parte de la vista el controlador del modulo de Dashboard del aplicativo web: Gestor de Proyectos hecho en Laravel
 
-No olvidar colocar las vistas en el archivo `routes\web.php`
+No olvidar colocar las rutas en el archivo `routes\web.php`
 Y tener ya creado los controladores para
 - ProyectoController
 - TareaController
